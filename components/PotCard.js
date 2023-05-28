@@ -8,7 +8,7 @@ const PotCard = () => {
   return (
     <div className={style.wrapper}>
       <div className={style.title}>
-        Betting{' '}
+        BET{' '}
         <span className={style.textAccent}>#{lotteryId ? lotteryId : '1'}</span>
       </div>
       <div className={style.pot}>
