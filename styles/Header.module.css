@@ -1,0 +1,41 @@
+.wrapper {
+  background-color: #ffffff;
+  width: 100%;
+  min-height: 50px;
+  color: #a035d5;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  justify-content: space-between;
+  /* position: sticky; */
+}
+
+.title {
+  margin-left: 20px;
+  font-size: 2rem;
+  cursor: pointer;
+  font-weight: bolder;
+  color: #a035d5;
+}
+
+.loginBtn {
+  margin-right: 20px;
+  font-size: 1.4rem;
+  cursor: pointer;
+  border: 1px solid #a035d5;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  padding: 10px;
+  color: #a035d5;
+  font-weight: bolder;
+}
+
+.welcome {
+  font-size: 1.5rem;
+  font-weight: bolder;
+}
+
+.accentColor {
+  color: #f2505e;
+  font-weight: bold;
+}
